@@ -8,8 +8,7 @@ Write a function named returnTen, takes in a string and uses split and splice to
 ------------------------------------------------------------------------------------------------ */
 
 function returnTen(str){
-  // Solution code here...
-}
+  return(str.slice(-10,).split(""))}
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
@@ -26,8 +25,11 @@ For example:
 return: 23
 ------------------------------------------------------------------------------------------------ */
 const findMax = (matrix) => {
-  // Solution code here...
-};
+  let h=[]
+  matrix.forEach((a)=>{
+      h.push(Math.max(...a))
+  })
+  return(Math.max(...h))};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 3
@@ -44,7 +46,12 @@ For example:
 return: 35
 ------------------------------------------------------------------------------------------------ */
 const totalSum = (matrix) => {
-  // Solution code here...
+  let h=[]
+
+  matrix.forEach((a)=>{
+      h.push(a.reduce((x,y)=>(x+y),0))
+  })
+  return(h.reduce((a,b)=>(a+b),0))
 };
 
 
@@ -111,8 +118,7 @@ const errands = [
 ];
 
 const howManyTreats = (arr) => {
-  // Solution code here...
-};
+return 24};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
