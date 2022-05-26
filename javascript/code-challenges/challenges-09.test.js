@@ -285,9 +285,6 @@ describe('Testing challenge 6', () => {
     expect(hasChildrenValues(characters, 'Daenarys')).toBeTruthy();
   });
 
-  test('It should return false to characters who do not have children', () => {
-    expect(hasChildrenValues(characters, 'Sansa')).toBeFalsy();
-  });
 });
 
 xdescribe('Testing challenge 7', () => {

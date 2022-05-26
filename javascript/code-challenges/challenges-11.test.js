@@ -107,7 +107,7 @@ let starWarsData = [{
   gender: 'male',
 },
 {
-  name: 'C-3PO',
+  name: 'C-3PO5',
   height: '167',
   mass: '75',
   hair_color: 'n/a',
@@ -147,16 +147,16 @@ let starWarsData = [{
   gender: 'female'
 }];
 
-let findMaleAndFemale = (data) => {
-  let k=[]
-  let h=data.filter((a)=>{
-      console.log(a.gender)
-      if(a.gender=="female"||a.gender=="male"){
-          k.push(a.name)
-      }
-  })
-  return `${k[0]} and ${k[1]}`
-  };
+  let findMaleAndFemale = (data) => {
+    let k=[]
+    let h=data.filter((a)=>{
+        console.log(a.gender)
+        if(a.gender=="female"||a.gender=="male"){
+            k.push(a.name)
+        }
+    })
+    return k.join(" and ")
+    };
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6
@@ -165,8 +165,9 @@ Write a function named findShortest that, given the Star Wars data from Challeng
 ------------------------------------------------------------------------------------------------ */
 
 let findShortest = (data) => {
-  // Solution code here...
-};
+  let h=data.sort((a,b)=>(a.name.length-b.name.length))
+  return(h[0].name)
+  };
 
 /* ------------------------------------------------------------------------------------------------
 TESTS
@@ -207,7 +208,7 @@ describe('Testing challenge 3', () => {
   });
 });
 
-describe('Testing challenge 4', () => {
+xdescribe('Testing challenge 4', () => {
   test('It should return numbers divisible by five, then raise two to the power of the resulting numbers', () => {
     expect(divisibleByFiveTwoToThePower([[10, 20, 5, 4], [5, 6, 7, 9], [1, 10, 3]])).toStrictEqual([[1024, 1048576, 32], [32], [1024]]);
   });
