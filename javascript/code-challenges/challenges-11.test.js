@@ -25,6 +25,7 @@ function transformToLis(obj){
   key.forEach((a,i)=>{
       z.push(`<li>${a}: ${value[i]}</li>`)
   })
+  return z
   };
 
 /* ------------------------------------------------------------------------------------------------
@@ -147,8 +148,15 @@ let starWarsData = [{
 }];
 
 let findMaleAndFemale = (data) => {
-  // Solution code here...
-};
+  let k=[]
+  let h=data.filter((a)=>{
+      console.log(a.gender)
+      if(a.gender=="female"||a.gender=="male"){
+          k.push(a.name)
+      }
+  })
+  return `${k[0]} and ${k[1]}`
+  };
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6
