@@ -242,6 +242,13 @@ describe('Testing challenge 1', () => {
   test('It should handle negatives and return the maximum number found', () => {
     expect(maxInArray([4, -2, -7, 5, -9, 2])).toStrictEqual(5);
   });
+  test('It should return the maximum number found', () => {
+    expect(maxInArray([4, 2, 7, 5, 9, 2])).toStrictEqual(9);
+  });
+  test('It should handle negatives and return the maximum number found', () => {
+    expect(maxInArray([4, -2, -7, 5, -9, 2])).toStrictEqual(5);
+  });
+
 });
 
 describe('Testing challenge 2', () => {
