@@ -76,10 +76,15 @@ const capHill = [5, 85, 58, 51, 50, 13, 33, 32, 47, 94, 31, 62];
 const alkiBeach = [33, 31, 147, 130, 27, 93, 38, 126, 141, 63, 46, 17];
 
 const cookieStores = [firstPike, seaTac, seattleCenter, capHill, alkiBeach];
-
+let k=[]
 const grandTotal = (stores) => {
-  // Solution code here...
-
+  let z=[]
+  alkiBeach.forEach((a,i)=>{
+    z.push(a+firstPike[i]+seaTac[i]+seattleCenter[i]+capHill[i])
+    k.push(a+firstPike[i]+seaTac[i]+seattleCenter[i]+capHill[i])
+  })
+  return z
+  
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -93,7 +98,11 @@ Write a function named salesData that uses forEach to iterate over the hourlySal
 ------------------------------------------------------------------------------------------------ */
 
 const salesData = (hours, data) => {
-  // Solution code here...
+ let z=[]
+ hoursOpen.forEach((a,i)=>{
+   z.push({sales: `${k[i]} cookies`, time: `${a}`})
+ })
+ return z
 };
 
 /* ------------------------------------------------------------------------------------------------
