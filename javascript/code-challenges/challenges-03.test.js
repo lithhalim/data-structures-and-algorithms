@@ -228,6 +228,8 @@ describe('Testing challenge 4', () => {
     expect(oddValues([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]).length).toStrictEqual(5);
     expect(oddValues([2,3,4,179])).toStrictEqual([3,179]);
     expect(oddValues([2,4,6,8])).toStrictEqual([]);
+    expect(oddValues([2,3,4,179])).toStrictEqual([3,179]);
+    expect(oddValues([2,4,6,8])).toStrictEqual([]);
   });
 });
 
@@ -268,11 +270,9 @@ xdescribe('Testing challenge 6', () => {
 xdescribe('Testing challenge 7', () => {
   test('It should return the name of the stats that exceed that maximum', () => {
     expect(getStatName(snorlaxData.stats, 50)).toStrictEqual([ 'special-defense', 'special-attack' ]);
-    expect(getStatName(snorlaxData.stats, 50).length).toStrictEqual(2);
-  });
+    expect(getStatName(snorlaxData.stats, 50).length).toStrictEqual(2);  });
 
   test('It should return the name of the stats that exceed that maximum', () => {
-    expect(getStatName(snorlaxData.stats, 120)).toStrictEqual([]);
     expect(getStatName(snorlaxData.stats, 120).length).toStrictEqual(0);
   });
 

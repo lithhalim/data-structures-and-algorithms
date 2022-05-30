@@ -297,6 +297,8 @@ describe('Testing challenge 6', () => {
   test('It should return a list of foods', () => {
     expect(listFoods(gruffaloCrumble)).toStrictEqual(['Gruffalo', 'oats', 'brown sugar', 'flour', 'pure maple syrup', 'chopped nuts', 'baking soda', 'baking powder', 'cinnamon', 'melted butter', 'fresh water']);
     expect(listFoods(gruffaloCrumble).length).toStrictEqual(11);
+    expect(listFoods(gruffaloCrumble)).toStrictEqual(['Gruffalo', 'oats', 'brown sugar', 'flour', 'pure maple syrup', 'chopped nuts', 'baking soda', 'baking powder', 'cinnamon', 'melted butter', 'fresh water']);
+    expect(listFoods(gruffaloCrumble).length).toStrictEqual(11);
   });
 });
 
@@ -333,7 +335,6 @@ xdescribe('Testing challenge 10', () => {
   });
   test('It should return the complete string when passed a negative number', () => {
     expect(removeLastCharacters('hello', -1)).toStrictEqual('hello');
-    expect(removeLastCharacters('wowow', -700)).toStrictEqual('wowow');
   });
   test('It should return an empty string when called with a number larger than the string length', () => {
     expect(removeLastCharacters('hello', 12)).toStrictEqual('');
