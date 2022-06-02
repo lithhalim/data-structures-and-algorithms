@@ -5,3 +5,6 @@
 [CodeChalleng1](./MyChallenge/READMECLASS1.md)
 ##### class2
 [codechallenge2](./MyChallenge/READMECLASS2.md)
+
+##### class3
+[codechallenge3](./MyChallenge/READMECLASS2.md)
