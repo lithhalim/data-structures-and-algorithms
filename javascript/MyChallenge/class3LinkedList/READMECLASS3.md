@@ -11,6 +11,14 @@ A linked list is a linear data structure, in which the elements are not stored a
 ## The Test Of the Application
 ![image](assest/test.png)
 
+## The pull request link
+[Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pull/21)
+
+## The pull request link
+[Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pull/21)
+## The Link Of the File
+[File Linkedlist](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/linked-list)
+
 ## Approach & Efficiency
 i wnat to make for linked list the o(1) it round one time
 
