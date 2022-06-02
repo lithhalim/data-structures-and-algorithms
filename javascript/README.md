@@ -6,5 +6,5 @@
 ##### class2
 [codechallenge2](./MyChallenge/READMECLASS2.md)
 
-##### class3
+##### class3-linkedlist
 [codechallenge3](./MyChallenge/class3LinkedList/READMECLASS3.md)
