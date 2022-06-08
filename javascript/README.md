@@ -8,3 +8,4 @@
 | CLASS 2(insertShift)          | [CodeChalleng2](./MyChallenge/READMECLASS2.md)                    |
 | CLASS 3(linked list)          | [CodeChalleng3](./MyChallenge/class3LinkedList/READMECLASS3.md)   |
 | CLASS 4(binerry search)       | [CodeChalleng4](./MyChallenge/class4Binarysearch/READMECLASS4.md) |
+| CLASS 5(Interview questions)  | [CodeChalleng5](./MyChallenge/class5Interview%20questions/READMECLASS5.md) |
