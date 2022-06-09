@@ -1,8 +1,10 @@
 
 ## Interview Link 
 
- - [Interview 1](https://docs.google.com/spreadsheets/d/1fOVU1xXnrCPwzCfCyX8BQ2WMHKdFvjko/edit?usp=sharing&ouid=112498433748687901551&rtpof=true&sd=true)
- - [Interview 2](https://docs.google.com/spreadsheets/d/1fOVU1xXnrCPwzCfCyX8BQ2WMHKdFvjko/edit?usp=sharing&ouid=112498433748687901551&rtpof=true&sd=true)
+ - [Whiteboard Code Interviw](https://docs.google.com/spreadsheets/d/1u9bIzwYdCWYGXbmaFoBW4qsq9KbUi3gJ5nH9Z83IP8M/edit?usp=sharing)
+ - [ops technical interview qustion](https://docs.google.com/spreadsheets/d/1dM4MW6BypYjkN7VVsIYNxFqunCJHJCBS-L_JhENK4NM/edit?usp=sharing)
+ - [ops technical interview qustion](
+https://docs.google.com/spreadsheets/d/1_rArPnPqo_MDbW51EbTfiUKvexGV6PHvbJzH53_wVxw/edit?usp=sharing)
 
 <h2 align="center">First Interview</h2>
 
