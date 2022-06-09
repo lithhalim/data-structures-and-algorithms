@@ -6,10 +6,11 @@
  - [ops technical interview qustion](
 https://docs.google.com/spreadsheets/d/1_rArPnPqo_MDbW51EbTfiUKvexGV6PHvbJzH53_wVxw/edit?usp=sharing)
 
-
  - [Whiteboard Code Interviw](https://docs.google.com/spreadsheets/d/1ZcklazMQIt5fD7pdozJaTiRMQctekfHYzOTheKUaEyo/edit#gid=587380980)
- - [ops technical interview qustion](https://docs.google.com/spreadsheets/d/1Zh73x_qrl2fcum7JYIES1VXy8HZLjz1keUAxa0r52gQ/edit#gid=145305086](
-https://docs.google.com/spreadsheets/d/1r8V5zJ49nCzufk7G5k8xNhZx6Djcig04TiXx3Qisjg0/edit#gid=1942724567)
+ - [ops technical interview qustion](https://docs.google.com/spreadsheets/d/1Zh73x_qrl2fcum7JYIES1VXy8HZLjz1keUAxa0r52gQ/edit#gid=145305086)
+ - [ops technical interview qustion](https://docs.google.com/spreadsheets/d/1r8V5zJ49nCzufk7G5k8xNhZx6Djcig04TiXx3Qisjg0/edit#gid=1942724567)
+
+
 
 <h2 align="center">First Interview</h2>
 
