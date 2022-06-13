@@ -2,7 +2,10 @@
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:
 ## Whiteboard Process
 ##### the insert section
-![image](./wightbord.png)
+![image](./1.png)
+##### the insert section
+![image](./2.png)
+
 ##### the test section
 ![image](./test.png)
 ##### the authrization section
