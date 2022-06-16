@@ -10,7 +10,7 @@ A linked list is a linear data structure, in which the elements are not stored a
 ![image](./authrization.png)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/linked-list3)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/linked-list4)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
