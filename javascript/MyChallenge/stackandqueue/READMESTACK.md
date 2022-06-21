@@ -1,9 +1,9 @@
 ## project fole press heree***************************
-[](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/stackandqueue)
+[project file](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/stackandqueue)
 ## action 
-[](https://github.com/lithhalim/data-structures-and-algorithms/actions)
+[action](https://github.com/lithhalim/data-structures-and-algorithms/actions)
 ## pull request
-[](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
+[pull request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
 # STACK 
 Create a Node class that has properties for the value stored in the Node, and a pointer to the next node
 ## Whiteboard stack
