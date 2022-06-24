@@ -14,3 +14,4 @@
 | CLASS 8(linkdlist4)           | [CodeChalleng8](./MyChallenge/calss8/class8.md)                   |
 | CLASS 9(interviwe)            | [CodeChalleng9](./MyChallenge/interviw-2-start/README.md)         |
 | CLASS 10(stack queue)         | [CodeChalleng10](./MyChallenge/stackandqueue/READMESTACK.md)         |
+| CLASS 11(stack-queue-pseudo) | [CodeChalleng11](./MyChallenge/stack-queue-pseudo/README.md)         |
