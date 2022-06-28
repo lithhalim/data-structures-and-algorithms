@@ -1,5 +1,5 @@
 ## project fole press heree***************************
-[project file](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/stack-queue-pseudo)
+[project file](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/stack13)
 ## action 
 [action](https://github.com/lithhalim/data-structures-and-algorithms/actions)
 ## pull request
