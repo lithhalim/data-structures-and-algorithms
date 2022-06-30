@@ -17,3 +17,4 @@
 | CLASS 11(stack-queue-pseudo)  | [CodeChalleng11](./MyChallenge/stack-queue-pseudo/README.md)      |
 | CLASS 12(animal shelter)      | [CodeChalleng12](./MyChallenge/animalshelter/README.md)           |
 | CLASS 13(stack-queue-brackets)| [CodeChalleng13](./MyChallenge/13bracktes/README.md)           |
+| CLASS 14(interview3 )         | [CodeChalleng14](./MyChallenge/interviow3/README.md)           |
