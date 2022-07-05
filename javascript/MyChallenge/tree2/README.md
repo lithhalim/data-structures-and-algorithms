@@ -8,7 +8,7 @@ A binery search is non linera data structure, in which the elements are not stor
 ![image](./binery%20%20tree.png)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/tree)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/tree2)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
