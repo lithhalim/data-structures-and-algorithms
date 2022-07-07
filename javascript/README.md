@@ -20,3 +20,4 @@
 | CLASS 14(interview3 )         | [CodeChalleng14](./MyChallenge/interviow3/README.md)              |
 | CLASS 15(tree )               | [challenge 15](./MyChallenge/binerytree/README.md)                |
 | CLASS 16(tree2 )              | [challenge 16](./MyChallenge/tree2/README.md)                     |
+| CLASS 17(tree3 )              | [challenge 17](./MyChallenge/tree3/README.md)                     |
