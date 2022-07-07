@@ -1,4 +1,4 @@
-class BinaryTreeNode {
+class Brith {
   constructor(key, value = key, parent = null) {
     this.key = key;
     this.value = value;
@@ -11,7 +11,7 @@ class BinaryTreeNode {
 }
 
 
-class BinaryTree {
+class Brith {
   constructor(key, value = key) {
     this.root = new BinaryTreeNode(key, value);
   }
