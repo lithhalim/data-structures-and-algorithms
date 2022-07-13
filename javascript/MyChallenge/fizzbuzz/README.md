@@ -8,7 +8,7 @@ Breadth-first search (BFS) is an algorithm for searching a tree data structure f
 ![image](./authrization.jpg)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/tree2%20copy/brith.js)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/fizzbuzz/fizzbuzz.js)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
