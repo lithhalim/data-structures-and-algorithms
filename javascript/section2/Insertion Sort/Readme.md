@@ -10,7 +10,7 @@ Insertion sort is a sorting algorithm that places an unsorted element at its sui
 ![image](./authrization.jpg)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/linked-list2)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/section2/Insertion%20Sort/Readme.md)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
