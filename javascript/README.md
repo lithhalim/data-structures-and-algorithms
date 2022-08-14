@@ -31,4 +31,5 @@
 | ----------------------------- | ----------------------------------------------------------------- |
 | CLASS 26(Insertion Sort)      | [Code Challenge: Class 26](./section2/Insertion%20Sort/Readme.md) |
 | CLASS 27(merge Sort)          | [Code Challenge: Class 27](./section2/mergesort/merge.md)         |
-  
+| CLASS 28(quick Sort)          | [Code Challenge: Class 28](./section2/quickSort/Readme.md)         |
+
