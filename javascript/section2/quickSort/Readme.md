@@ -10,7 +10,7 @@ Insertion sort is a sorting algorithm that places an unsorted element at its sui
 ![image](./quick-sort-1.webp)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/section2/Insertion%20Sort/Readme.md)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/section2/quickSort)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
