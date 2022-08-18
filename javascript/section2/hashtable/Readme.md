@@ -10,7 +10,7 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 ![image](./authtization.webp)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/section2/Insertion%20Sort/Readme.md)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/section2/hashtable)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
