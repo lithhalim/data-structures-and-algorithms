@@ -34,4 +34,5 @@
 | CLASS 28(quick Sort)          | [Code Challenge: Class 28](./section2/quickSort/Readme.md)        |
 | CLASS 29(interviw sort)       | [Code Challenge: Class 29](./section2/interviw%20sort/README.md)  |
 | CLASS 30(hashTable)           | [Code Challenge: Class 30](./section2/hashtable/Readme.md)  |
+| CLASS 31(hashTable2)          | [Code Challenge: Class 31](./section2/hashtable%202/Readme.md)  |
 
