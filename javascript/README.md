@@ -35,4 +35,5 @@
 | CLASS 29(interviw sort)       | [Code Challenge: Class 29](./section2/interviw%20sort/README.md)  |
 | CLASS 30(hashTable)           | [Code Challenge: Class 30](./section2/hashtable/Readme.md)  |
 | CLASS 31(hashTable2)          | [Code Challenge: Class 31](./section2/hashtable%202/Readme.md)  |
+| CLASS 32(treeIntersection)    | [Code Challenge: Class 32](./section2/treeIntersection/Readme.md)  |
 
