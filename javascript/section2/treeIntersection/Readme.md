@@ -10,7 +10,7 @@ Intersection Algorithms and a Closure Operator
 ![image](./treeintersection%20authrization.png)
 
 ## The Link Of the File
-[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/blob/main/javascript/section2/Insertion%20Sort/Readme.md)
+[Press here!!!!!!!!!!!!!!!!!!](https://github.com/lithhalim/data-structures-and-algorithms/tree/main/javascript/section2/treeIntersection)
 
 ## The pull request link
 [Pull Request](https://github.com/lithhalim/data-structures-and-algorithms/pulls)
