@@ -36,4 +36,5 @@
 | CLASS 30(hashTable)           | [Code Challenge: Class 30](./section2/hashtable/Readme.md)  |
 | CLASS 31(hashTable2)          | [Code Challenge: Class 31](./section2/hashtable%202/Readme.md)  |
 | CLASS 32(treeIntersection)    | [Code Challenge: Class 32](./section2/treeIntersection/Readme.md)  |
+| CLASS 33(joinleft)            | [Code Challenge: Class 33](./section2/hashtable3/Readme.md)  |
 
